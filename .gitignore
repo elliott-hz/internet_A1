@@ -1,0 +1,27 @@
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+.env
+.DS_Store
+*.log
+.vscode/
+.idea/
+dist/
+build/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Database files (SQLite)
+*.db
+*.sqlite
+*.sqlite3
+
+# But keep the sample database if needed
+!backend/database/internet_a1.db
