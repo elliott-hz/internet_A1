@@ -17,7 +17,7 @@ This is a single-page e-commerce shopping cart application that allows users to 
 - **Framework**: FastAPI
 - **Language**: Python 3.9+
 - **Database ORM**: SQLAlchemy
-- **Database**: SQLite (default, no installation required)
+- **Database**: SQLite (default, python built-in light database, no further libriaries installation required)
 - **CORS**: FastAPI CORS middleware
 
 **Note**: The application uses SQLite by default for easy setup. MySQL support is available but optional - see [Database README](database/README.md) for details.
